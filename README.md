@@ -214,6 +214,9 @@ Each project generates publication-quality figures:
 
 ## 📝 Documentation
 
+### Methodology
+- **[METHODOLOGY.md](METHODOLOGY.md)** - Complete analysis methodology and detailed procedures
+
 ### Research Papers
 - **L98-59**: `L98-59/docs/arxiv_paper_template.md` - Methodology paper template
 - **HAT-P-7**: `HAT-P-7/docs/trojan_search_paper.md` - Trojan search methodology

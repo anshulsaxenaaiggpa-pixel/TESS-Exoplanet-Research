@@ -250,11 +250,11 @@ If you use this code or methodology in your research, please cite:
 
 ```bibtex
 @software{tess_exoplanet_research_2024,
-  author = {[Your Name]},
+  author = {[Anshul Saxena]},
   title = {TESS Exoplanet Research: Citizen Science Detection Pipeline},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/[username]/TESS-Exoplanet-Research},
+  url = {https://github.com/anshulsaxenaaiggpa-pixel/TESS-Exoplanet-Research},
   doi = {[Zenodo DOI when available]}
 }
 ```
@@ -265,8 +265,8 @@ If you use this code or methodology in your research, please cite:
 
 **Questions or collaboration opportunities?**
 - Open an issue in this repository
-- Email: [Your Email]
-- Project Link: https://github.com/[username]/TESS-Exoplanet-Research
+- Email: anshulsaxena.aiggpa@gmail.com
+- Project Link: https://github.com/anshulsaxenaaiggpa-pixel/TESS-Exoplanet-Research
 
 ---
 

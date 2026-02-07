@@ -120,7 +120,7 @@ matplotlib>=3.5      # Data visualization
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/TESS-Exoplanet-Research.git
+git clone https://github.com/anshulsaxenaaiggpa-pixel/TESS-Exoplanet-Research.git
 cd TESS-Exoplanet-Research
 
 # Install dependencies
@@ -249,12 +249,12 @@ This is a citizen science project! Contributions welcome:
 If you use this code or methodology in your research, please cite:
 
 ```bibtex
-@software{tess_exoplanet_research_2024,
-  author = {[Your Name]},
+@software{tess_exoplanet_research_2026,
+  author = {Anshul Saxena},
   title = {TESS Exoplanet Research: Citizen Science Detection Pipeline},
-  year = {2024},
+  year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/[username]/TESS-Exoplanet-Research},
+  url = {https://github.com/anshulsaxenaaiggpa-pixel/TESS-Exoplanet-Research},
   doi = {[Zenodo DOI when available]}
 }
 ```
@@ -265,8 +265,8 @@ If you use this code or methodology in your research, please cite:
 
 **Questions or collaboration opportunities?**
 - Open an issue in this repository
-- Email: [Your Email]
-- Project Link: https://github.com/[username]/TESS-Exoplanet-Research
+- Email: anshulsaxena.aiggpa@gmail.com
+- Project Link: https://github.com/anshulsaxenaaiggpa-pixel/TESS-Exoplanet-Research
 
 ---
 
@@ -307,7 +307,7 @@ If you use this code or methodology in your research, please cite:
 
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2026 Anshul Saxena
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

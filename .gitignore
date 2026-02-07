@@ -1,0 +1,57 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (large files)
+# Instead of uploading data, we'll link to MAST
+*.fits
+*.fit
+*.fits.gz
+*.lc
+
+# Large result files
+# We'll keep small PNGs but not huge data products
+*.csv
+*.hdf5
+*.h5
+*.npy
+*.npz
+
+# Keep these - they're small enough
+!results/**/*.png
+!docs/**/*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Large generated PDFs (upload separately to releases)
+paper/*.pdf
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Notes about large files:
+# - Don't commit TESS .fits files (download from MAST instead)
+# - Don't commit processed light curves > 10MB
+# - Use Git LFS for files 50MB-100MB
+# - Use Zenodo for files > 100MB
+# - Include download scripts instead of data

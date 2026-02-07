@@ -1,5 +1,7 @@
 # TESS Exoplanet Research
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18515132.svg)](https://doi.org/10.5281/zenodo.18515132)
+
 **Citizen Science Exoplanet Detection Pipeline**
 
 Professional-grade analysis of NASA TESS data for exoplanet discovery, featuring systematic searches across three planetary systems with rigorous statistical validation.
@@ -256,9 +258,10 @@ If you use this code or methodology in your research, please cite:
   author = {Anshul Saxena},
   title = {TESS Exoplanet Research: Citizen Science Detection Pipeline},
   year = {2026},
-  publisher = {GitHub},
-  url = {https://github.com/anshulsaxenaaiggpa-pixel/TESS-Exoplanet-Research},
-  doi = {[Zenodo DOI when available]}
+  publisher = {Zenodo},
+  version = {v1.0.0},
+  doi = {10.5281/zenodo.18515132},
+  url = {https://github.com/anshulsaxenaaiggpa-pixel/TESS-Exoplanet-Research}
 }
 ```
 
